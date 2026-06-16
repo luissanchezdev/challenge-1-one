@@ -1,0 +1,18 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Currency converter console overview</title>
+  <desc id="desc">Overview image for a Java console currency converter using ExchangeRate API.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#064e3b"/><stop offset="1" stop-color="#111827"/></linearGradient></defs>
+  <rect width="1200" height="720" rx="34" fill="url(#bg)"/>
+  <circle cx="1010" cy="135" r="210" fill="#34d399" opacity="0.18"/>
+  <circle cx="165" cy="615" r="250" fill="#fbbf24" opacity="0.13"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="82" y="112" fill="#ecfdf5" font-size="43" font-weight="900">Currency Converter</text>
+    <text x="82" y="160" fill="#bbf7d0" font-size="23">Oracle ONE Challenge 1 · Java console app · ExchangeRate API</text>
+    <rect x="82" y="225" width="1036" height="340" rx="30" fill="#ffffff" opacity="0.1" stroke="#86efac"/>
+    <g transform="translate(128 290)"><rect width="250" height="130" rx="24" fill="#052e16" stroke="#22c55e"/><text x="34" y="55" fill="#dcfce7" font-size="23" font-weight="800">COP ⇄ USD</text><text x="34" y="90" fill="#bbf7d0" font-size="16">Colombian pesos</text></g>
+    <g transform="translate(475 290)"><rect width="250" height="130" rx="24" fill="#052e16" stroke="#22c55e"/><text x="34" y="55" fill="#dcfce7" font-size="23" font-weight="800">COP ⇄ MXN</text><text x="34" y="90" fill="#bbf7d0" font-size="16">Mexican pesos</text></g>
+    <g transform="translate(822 290)"><rect width="250" height="130" rx="24" fill="#052e16" stroke="#22c55e"/><text x="34" y="55" fill="#dcfce7" font-size="23" font-weight="800">COP ⇄ EUR</text><text x="34" y="90" fill="#bbf7d0" font-size="16">Euros</text></g>
+    <text x="132" y="505" fill="#d1fae5" font-size="19">Requires API_KEY_CHALLENGE_1_ONE to call v6.exchangerate-api.com.</text>
+    <text x="82" y="650" fill="#bbf7d0" font-size="17">Local validation: source inspected; Maven CLI is not installed in this environment.</text>
+  </g>
+</svg>
